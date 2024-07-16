@@ -1,5 +1,4 @@
-[![](https://poggit.pmmp.io/shield.state/Anti-AFK)](https://poggit.pmmp.io/p/Anti-AFK)
-<a href="https://poggit.pmmp.io/p/Anti-AFK"><img src="https://poggit.pmmp.io/shield.state/Anti-AFK"></a>
+- [![Discord](https://img.shields.io/discord/1239607050988818432?label=Discord&logo=discord&color=blue)](https://discord.gg/EPKcucew5z)
 
 Description: The AntiAFK plugin is designed to help server administrators manage and reduce the number of AFK (Away From Keyboard) players on their PocketMine-MP servers. By tracking player activity and kicking those who are idle for too long, this plugin ensures that active players have a better experience and server resources are used efficiently.
 
