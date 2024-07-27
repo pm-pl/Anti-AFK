@@ -14,3 +14,6 @@ AFK Detection: Automatically tracks player activity and determines if a player i
 antiafk.cmd.reload - Allows the use of the /afkreload command. antiafk.bypass - Allows players to bypass the AFK kick. Configuration: The plugin provides a configuration file where you can set:
 
 afk.time - The maximum time of a player can be idle before being kicked. kick.message - The message displayed to players when they are kicked for being AFK. reload.config.message - The message displayed when the configuration is reloaded. time.zone - The timezone used for calculating idle times.
+
+
+UPDATE BY BNT FEUJJJ THE PM4 PLUGIN OF SlidexPE !!!
